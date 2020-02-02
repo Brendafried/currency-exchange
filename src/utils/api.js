@@ -1,7 +1,6 @@
 import axios from 'axios'
 
 export function convertCurrency(base) {
-  console.log('calling api')
   return axios.get(`https://api.exchangerate-api.com/v4/latest/${base}`)
 }
 
