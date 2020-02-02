@@ -1,4 +1,8 @@
 # price-converter
+## Deployed here
+```
+https://currency-exchange-bf.netlify.com/
+```
 
 ## Project setup
 ```
